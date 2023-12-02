@@ -1,0 +1,11 @@
+Quinton,5
+Temba,11
+Rassie,13
+Aiden,9
+Heinrich,1
+David,11
+Marco,14
+Keshav,7
+Kahiso,6
+Lungi,0
+Tabraiz,4
